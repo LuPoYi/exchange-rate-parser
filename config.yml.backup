@@ -1,0 +1,9 @@
+---
+:redis:
+  :host: '127.0.0.1'
+  :port: '6379'
+:ssdb:
+  :host: '127.0.0.1'
+  :port: '8888'
+:telegram:
+  :token: '355931611:AAHsVBxt1q5RszYurTkEF7RgKz2AWbdG-v8'

@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri'
 gem 'json'
-gem 'open-uri'
+
+gem 'rest-client'
+gem 'nokogiri'
+
+gem 'rufus-scheduler'
+
+gem 'redis'

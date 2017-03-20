@@ -9,6 +9,7 @@
 * 大小量漲幅通知(telegram)
 * 即時損益計算
 * Log
+* 開API讓web串
 
 
 ## Redis Schema

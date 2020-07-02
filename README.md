@@ -1,4 +1,4 @@
-# 個人匯率爬蟲
+# Personal various exchange rate tool
 
 * 台銀匯率
 * 玉山匯率
